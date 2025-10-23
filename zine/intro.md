@@ -7,3 +7,4 @@ Zine thats about time machine.
 
 ### Paradox Preview
  Discuss grandfather paradox with examples.
+This line is from branch A
