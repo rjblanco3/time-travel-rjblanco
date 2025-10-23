@@ -1,0 +1,1 @@
+I learned about branching, how to stage a conflict and solve it manually. Mistakes I fixed were forgetting to do git add before a commit when making changes to a file, and made some mistakes when doing git log to take a screenshot of commits by accidentally have it take up my entire terminal.
