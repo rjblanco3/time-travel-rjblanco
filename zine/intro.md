@@ -7,4 +7,7 @@ Zine thats about time machine.
 
 ### Paradox Preview
  Discuss grandfather paradox with examples.
+<<<<<<< HEAD
 This line is from branch A
+This line is from branch B
+>>>>>>> conflict/branchB
